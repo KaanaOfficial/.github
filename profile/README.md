@@ -1,7 +1,7 @@
-# Welcome to Kaana, now Peable! 🌟
+# Welcome to Kaana, now Oxy! 🌟
 
 ## Introduction
 
-Hello there! We're thrilled to announce that Kaana has transformed into Peable.
+Hello there! We're thrilled to announce that Kaana has transformed into Oxy.
 
-Check out the [Peable GitHub](https://github.com/PeableOfficial)
+Check out the [Oxy GitHub](https://github.com/OxyHQ)
